@@ -66,7 +66,7 @@ LEGISLATION_TYPE_LABELS = {
 def get_nc_house_candidates():
     params = {
         "api_key": OPENFEC_API_KEY, "cycle": CYCLE, "office": "H",
-        "state": "NC", "sort": "name", "per_page": 50,
+        "state": "NC", "candidate_status": "C", "sort": "name", "per_page": 50,
     }
     resp = requests.get(f"{OPENFEC_BASE}/candidates/", params=params)
     resp.raise_for_status()
