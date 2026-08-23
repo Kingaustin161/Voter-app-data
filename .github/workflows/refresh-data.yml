@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write            # allows this workflow to commit the updated file back
 
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false   # if a run is already in progress, queue this one instead of racing it
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
