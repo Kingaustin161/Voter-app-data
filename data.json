@@ -1,0 +1,940 @@
+[
+  {
+    "name": "ABU-GHAZALAH, MAAD",
+    "party": "LIBERTARIAN PARTY",
+    "candidate_id": "H6NC07204",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "ABU-GHAZALAH, MAAD",
+        "amount": "$2,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "LIBERTARIAN PARTY OF NORTH CAROLINA",
+        "amount": "$1,740",
+        "type": "Political Party Committee"
+      },
+      {
+        "name": "COOK, ROGER",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "COOK, ROGER",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "DRACH, BOB",
+        "amount": "$500",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "ADAMS, ALMA SHEALEY",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H4NC12100",
+    "incumbent_challenger": "Incumbent",
+    "photo_url": null,
+    "district": 12,
+    "voting_record": [
+      {
+        "bill": "H.Res. 1075",
+        "vote": "No"
+      },
+      {
+        "bill": "S. 2503",
+        "vote": "Yes"
+      },
+      {
+        "bill": "H.R. 6329",
+        "vote": "Yes"
+      },
+      {
+        "bill": "H.R. 4758",
+        "vote": "No"
+      },
+      {
+        "bill": "H.R. 4626",
+        "vote": "No"
+      }
+    ],
+    "donors": [
+      {
+        "name": "FAIR ISAAC CORPORATION POLITICAL ACTION COMMITTEE (FICO PAC)",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "LENDINGTREE LLC POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "UNUM GROUP POLITICAL ACTION COMMITTEE (UNUMPAC)",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS &",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      }
+    ],
+    "bioguide_id": "A000370"
+  },
+  {
+    "name": "AGER, JAMIE",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC11248",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "DEM RISING 2026",
+        "amount": "$14,200",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "INNOVATION FOR GOOD PAC",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "HMP",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      }
+    ]
+  },
+  {
+    "name": "AGUILAR, ANTHONY BAILEY MR.",
+    "party": "GREEN PARTY",
+    "candidate_id": "H6NC13244",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "KHAN, AMED",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "BALL, KRYSTAL",
+        "amount": "$2,500",
+        "type": "Individual"
+      },
+      {
+        "name": "NOLAN, SEAN",
+        "amount": "$1,300",
+        "type": "Individual"
+      },
+      {
+        "name": "JIMENEZ, MAURICIO",
+        "amount": "$1,280",
+        "type": "Individual"
+      },
+      {
+        "name": "JIMENEZ, MAURICIO",
+        "amount": "$1,280",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "AIKEN, WILLIAM",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H2NC01255",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "ALI, ADDUL RAHMAN ELI",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H6NC12105",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "TAYLOR, MATTHEW",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "TAYLOR, MELISSA",
+        "amount": "$3,100",
+        "type": "Individual"
+      },
+      {
+        "name": "SQUATRIGLIA, LISA",
+        "amount": "$2,500",
+        "type": "Individual"
+      },
+      {
+        "name": "KNIGHT, JESSIE JR",
+        "amount": "$1,500",
+        "type": "Individual"
+      },
+      {
+        "name": "ROBBINS, DUSTIN",
+        "amount": "$1,000",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "ALLAM, NIDA",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H2NC06098",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "RED7E",
+        "amount": "$31,000",
+        "type": "Organization"
+      },
+      {
+        "name": "NATHOO, AMIR",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "AZHAR, MUHAMMAD",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$7,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "MOKHTARZADA, IDRIS",
+        "amount": "$7,000",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "AYERS, AUSTIN JAY",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H6NC03195",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BAILEY, TOM",
+    "party": "LIBERTARIAN PARTY",
+    "candidate_id": "H8NC13075",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BALKCOM, JENNIFER",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H6NC11321",
+    "incumbent_challenger": null,
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BARBOUR, DEVAN IV",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H2NC04168",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BARRINGER, PAUL",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC13228",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "BARRINGER, PAUL",
+        "amount": "$122,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "BARRINGER, PAUL",
+        "amount": "$115,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "BARRINGER, PAUL",
+        "amount": "$105,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "BARRINGER, PAUL",
+        "amount": "$92,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "WISOR, RONALD",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "BARR, KATE",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H6NC14044",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "COMPTON, TED",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "BARR, KATE",
+        "amount": "$2,426",
+        "type": "Candidate"
+      },
+      {
+        "name": "SANDRIDGE, MICHELLE",
+        "amount": "$2,000",
+        "type": "Individual"
+      },
+      {
+        "name": "SALVADOR, PATINO",
+        "amount": "$2,000",
+        "type": "Individual"
+      },
+      {
+        "name": "BARR, KATE",
+        "amount": "$1,501",
+        "type": "Candidate"
+      }
+    ]
+  },
+  {
+    "name": "BAUCOM, ALLAN",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H4NC08058",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BELL, ASHLEY",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC10174",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "BELL, ASHLEY",
+        "amount": "$5,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "WARREN, MAC",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "WARREN, MAC",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "BELL, ASHLEY",
+        "amount": "$3,486",
+        "type": "Candidate"
+      },
+      {
+        "name": "WARREN, LISA",
+        "amount": "$3,328",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "BENNETT, ROBERT",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC02197",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BIBLER, LOREN DAVID",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC09242",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BISHOP, JAMES DANIEL",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H0NC09187",
+    "incumbent_challenger": "Incumbent",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BLAIR, BEAU",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC06156",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "NORTH CAROLINA DEMOCRATIC PARTY",
+        "amount": "$3,000",
+        "type": "Political Party Committee"
+      },
+      {
+        "name": "NORTH CAROLINA DEMOCRATIC PARTY",
+        "amount": "$3,000",
+        "type": "Political Party Committee"
+      },
+      {
+        "name": "BLAIR, BEAU",
+        "amount": "$1,492",
+        "type": "Candidate"
+      },
+      {
+        "name": "HOY, DORTHA L",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "BLAIR, BEAU",
+        "amount": "$581",
+        "type": "Candidate"
+      }
+    ]
+  },
+  {
+    "name": "BLANKENBURG, ERIC",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H4NC04131",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BRADFORD, JOHN R III",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H4NC08090",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BREWSTER, BILLY JOE",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H2NC13151",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BRIARWOOD, ZELDA",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC11214",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "FRIENDS OF ZELDA",
+        "amount": "$11,070",
+        "type": "Campaign Committee"
+      },
+      {
+        "name": "CANARY, SHADY",
+        "amount": "$3,000",
+        "type": "Individual"
+      },
+      {
+        "name": "BRIARWOOD, ZELDA",
+        "amount": "$2,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "BRIARWOOD, ZELDA",
+        "amount": "$1,750",
+        "type": "Candidate"
+      },
+      {
+        "name": "BRIARWOOD, ZELDA",
+        "amount": "$1,500",
+        "type": "Candidate"
+      }
+    ]
+  },
+  {
+    "name": "BRISTOW, NIGEL WILLIAM",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H4NC09171",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "CANADA, ANDREW",
+        "amount": "$3,000",
+        "type": "Individual"
+      },
+      {
+        "name": "BRISTOW, DELARIS",
+        "amount": "$500",
+        "type": "Individual"
+      },
+      {
+        "name": "BRISTOW, DELARIS",
+        "amount": "$500",
+        "type": "Individual"
+      },
+      {
+        "name": "ALMA ADAMS FOR CONGRESS",
+        "amount": "$500",
+        "type": "Campaign Committee"
+      },
+      {
+        "name": "BRISTOW, DELARIS",
+        "amount": "$500",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "BROWN, DON",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H4NC08074",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "GILLETTE, SHEREEN",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "YAGER, STEVE T",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "YAGER, DOYLE L",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "BROWN, DON",
+        "amount": "$4,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "SOUTIER, MICHELLE ROBERTSON",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "BROWN, LEIGH",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H0NC09203",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BUCK, ASA BRYANT III",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H6NC01165",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "BUCK, ASA",
+        "amount": "$49,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "BUCK, ASA",
+        "amount": "$10,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "WORDSWORTH, JASON",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "STARCKE, ERIN",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "STARCKE, DOUG",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "BUCKHOUT, LAURIE",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H4NC01137",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "BUCKHOUT, LAURIE",
+        "amount": "$2,001,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "BUCKHOUT, LAURIE",
+        "amount": "$400,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "LAURIE BUCKHOUT FOR CONGRESS-GTM NOMINEE FUND: NC-01",
+        "amount": "$99,155",
+        "type": "Other Committee"
+      },
+      {
+        "name": "GROW THE MAJORITY",
+        "amount": "$60,278",
+        "type": "Other Committee"
+      },
+      {
+        "name": "GROW THE MAJORITY",
+        "amount": "$51,935",
+        "type": "Other Committee"
+      }
+    ]
+  },
+  {
+    "name": "BUDD, THEODORE P.",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H6NC13129",
+    "incumbent_challenger": "Incumbent",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "TED BUDD MAJORITY COMMITTEE 2028",
+        "amount": "$59,652",
+        "type": "Other Committee"
+      },
+      {
+        "name": "TED BUDD MAJORITY COMMITTEE 2028",
+        "amount": "$41,551",
+        "type": "Other Committee"
+      },
+      {
+        "name": "TED BUDD MAJORITY COMMITTEE 2028",
+        "amount": "$16,624",
+        "type": "Other Committee"
+      },
+      {
+        "name": "BUDD NC VICTORY FUND 2028",
+        "amount": "$15,328",
+        "type": "Other Committee"
+      },
+      {
+        "name": "TED BUDD MAJORITY COMMITTEE 2028",
+        "amount": "$13,028",
+        "type": "Other Committee"
+      }
+    ]
+  },
+  {
+    "name": "BUNTING, JUSTIN",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC08152",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "BUZZARD, DAVID",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC07220",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CALDWELL, BRENT",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC14036",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CAMERO, MICHAEL",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H4NC02184",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CANO, FERNANDO CHRISTIAN MR. JR",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC09184",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CARR, LENT CHRISTOPHER DR. II",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC09226",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CASTELLI, ROBERT CHRISTIAN",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H2NC07161",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CAUDLE, WEST",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC10182",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CAVENDER, DANIEL",
+    "party": "LIBERTARIAN PARTY",
+    "candidate_id": "H6NC03237",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CAWTHORN, DAVID MADISON",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H0NC11233",
+    "incumbent_challenger": "Incumbent",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CLARK, KEVIN ROY",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC08186",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CLAYTON, DAVID",
+    "party": "INDEPENDENT",
+    "candidate_id": "H6NC05133",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CLICK, NATHAN",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H2NC14027",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CODIGA, JOHN JACK",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H6NC12113",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "COLEMAN, LINDA",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H8NC02110",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CONNORS, JONATHAN R",
+    "party": "LIBERTARIAN PARTY",
+    "candidate_id": "H6NC11297",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CONTOGIANNIS, MARY ANN DR",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H2NC06155",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CRAIGHILL-MIDDLETON, ANDUIN ELIM",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H4NC06185",
+    "incumbent_challenger": "Open seat",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "CREEKMORE, KYAH",
+    "party": "DEMOCRATIC PARTY",
+    "candidate_id": "H6NC05141",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "DALY, KAY MRS.",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H6NC02122",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  },
+  {
+    "name": "D'ANNUNZIO, TIMOTHY BRUCE",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H0NC08163",
+    "incumbent_challenger": "Challenger",
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": []
+  }
+]
