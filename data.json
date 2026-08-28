@@ -1464,33 +1464,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$58,492",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$45,502",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$31,241",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$19,231",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$11,310",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "K000405"
   },
   {
@@ -1501,33 +1475,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "LAWRENCE, JACOB ROBERT",
-        "amount": "$15,550",
-        "type": "Candidate"
-      },
-      {
-        "name": "LAWRENCE, JACOB ROBERT",
-        "amount": "$8,600",
-        "type": "Candidate"
-      },
-      {
-        "name": "WOLFE, LAURA",
-        "amount": "$1,000",
-        "type": "Individual"
-      },
-      {
-        "name": "KOVNER, PETE",
-        "amount": "$1,000",
-        "type": "Individual"
-      },
-      {
-        "name": "GRIFFIN, GARETH",
-        "amount": "$1,000",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "MADDOX, PAUL",
@@ -1589,33 +1537,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "LAWSON, JANET",
-        "amount": "$3,295",
-        "type": "Individual"
-      },
-      {
-        "name": "WALLACE, JOHN",
-        "amount": "$2,000",
-        "type": "Individual"
-      },
-      {
-        "name": "LITTIN, FRANCES",
-        "amount": "$993",
-        "type": "Individual"
-      },
-      {
-        "name": "LITTIN, FRANCES",
-        "amount": "$993",
-        "type": "Individual"
-      },
-      {
-        "name": "SABIC-EL-RAYESS, AMRA",
-        "amount": "$941",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "MOORE, TIM",
@@ -1646,33 +1568,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "WEISBERG, WILLIAM I",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "DUKE ENERGY CORPORATION PAC",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001236"
   },
   {
@@ -1714,33 +1610,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$57,221",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$43,364",
-        "type": "Other Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$39,751",
-        "type": "Other Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$34,728",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$17,861",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001210"
   }
 ]
