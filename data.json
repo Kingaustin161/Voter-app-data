@@ -1276,7 +1276,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$17,894",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$17,211",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$13,058",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$11,869",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$11,629",
+        "type": "Other Committee"
+      }
+    ],
     "bioguide_id": "H001101"
   },
   {
@@ -1308,7 +1334,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "MARK HARRIS VICTORY FUND",
+        "amount": "$20,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "WILLIAMS, BRIAN",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "SHINN, GEORGE",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "RUSSELL, ATLAS",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "INGRAM, MICHAEL K",
+        "amount": "$7,000",
+        "type": "Individual"
+      }
+    ],
     "bioguide_id": "H001102"
   },
   {
@@ -1340,7 +1392,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "MARK HARRIS VICTORY FUND",
+        "amount": "$20,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "WILLIAMS, BRIAN",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "SHINN, GEORGE",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "RUSSELL, ATLAS",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "INGRAM, MICHAEL K",
+        "amount": "$7,000",
+        "type": "Individual"
+      }
+    ],
     "bioguide_id": "H001102"
   },
   {
@@ -1351,7 +1429,28 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "SMITH, CHARAY DR",
+        "amount": "$25,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "SMITH, CHARAY",
+        "amount": "$25,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "SMITH, CHARAY DR",
+        "amount": "$12,395",
+        "type": "Candidate"
+      },
+      {
+        "name": "SMITH, CHARAY",
+        "amount": "$100",
+        "type": "Candidate"
+      }
+    ]
   },
   {
     "name": "HUBBARD, CHUCK",
@@ -1361,7 +1460,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "JOHNSON, MAROLYN",
+        "amount": "$5,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TANSEY, ROBERT",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "HENLEY, DONALD",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "HUDSON, RICHARD L. JR.",
