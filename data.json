@@ -1517,7 +1517,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$121,747",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$115,126",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$89,847",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$74,460",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$56,813",
+        "type": "Political Action Committee"
+      }
+    ],
     "bioguide_id": "H001067"
   },
   {
@@ -1528,7 +1554,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "HUDSPETH, RICHARD W.",
+        "amount": "$36,500",
+        "type": "Candidate"
+      },
+      {
+        "name": "HUDSPETH, RICHARD DR.",
+        "amount": "$7,746",
+        "type": "Candidate"
+      },
+      {
+        "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "HUDSPETH, RICHARD W.",
+        "amount": "$3,500",
+        "type": "Candidate"
+      },
+      {
+        "name": "HUDSPETH, RICHARD W.",
+        "amount": "$3,500",
+        "type": "Candidate"
+      }
+    ]
   },
   {
     "name": "JASLOW, ALLISON",
@@ -1538,7 +1590,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "CROSSPARTISAN PAC 1",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "PRO-CHOICE MAJORITY 2026",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TISCH, JONATHAN",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "JEFFERSON, CYRIL",
@@ -1548,7 +1626,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "STANBACK, FRED",
+        "amount": "$6,800",
+        "type": "Individual"
+      },
+      {
+        "name": "HUBSPOT",
+        "amount": "$6,073",
+        "type": "Organization"
+      },
+      {
+        "name": "BRYANT, GREGORY",
+        "amount": "$5,000",
+        "type": "Individual"
+      },
+      {
+        "name": "BLANCATO, BILL",
+        "amount": "$5,000",
+        "type": "Individual"
+      },
+      {
+        "name": "PAC TO THE FUTURE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      }
+    ]
   },
   {
     "name": "KASSAY, ALYSA",
@@ -1558,7 +1662,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$8,578",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$7,500",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$5,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$4,130",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$3,494",
+        "type": "Candidate"
+      }
+    ]
   },
   {
     "name": "KNOTT, BRAD",
@@ -1589,7 +1719,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$58,492",
+        "type": "Other Committee"
+      },
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$45,502",
+        "type": "Other Committee"
+      },
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$31,241",
+        "type": "Other Committee"
+      },
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$19,231",
+        "type": "Other Committee"
+      },
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$11,310",
+        "type": "Other Committee"
+      }
+    ],
     "bioguide_id": "K000405"
   },
   {
@@ -1735,7 +1891,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "TEAM MURPHY",
+        "amount": "$57,221",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM MURPHY",
+        "amount": "$43,364",
+        "type": "Other Committee"
+      },
+      {
+        "name": "TEAM MURPHY",
+        "amount": "$39,751",
+        "type": "Other Committee"
+      },
+      {
+        "name": "TEAM MURPHY",
+        "amount": "$34,728",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM MURPHY",
+        "amount": "$17,861",
+        "type": "Other Committee"
+      }
+    ],
     "bioguide_id": "M001210"
   }
 ]
