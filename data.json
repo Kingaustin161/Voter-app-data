@@ -1756,7 +1756,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "LAWRENCE, JACOB ROBERT",
+        "amount": "$15,550",
+        "type": "Candidate"
+      },
+      {
+        "name": "LAWRENCE, JACOB ROBERT",
+        "amount": "$8,600",
+        "type": "Candidate"
+      },
+      {
+        "name": "WOLFE, LAURA",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "KOVNER, PETE",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "GRIFFIN, GARETH",
+        "amount": "$1,000",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MADDOX, PAUL",
@@ -1766,7 +1792,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "SHIER, DOUGLAS",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "SALMON, NANCY",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "SALMON, EDWARD",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "MADDOX, WENDY HEAVNER",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MCCONKEY, JOSH",
@@ -1807,7 +1859,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "MCDOWELL VICTORY FUND",
+        "amount": "$40,208",
+        "type": "Other Committee"
+      },
+      {
+        "name": "MCDOWELL VICTORY FUND",
+        "amount": "$32,922",
+        "type": "Other Committee"
+      },
+      {
+        "name": "WINRED",
+        "amount": "$15,180",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "WINRED",
+        "amount": "$14,749",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "MCDOWELL, ADDISON",
+        "amount": "$13,560",
+        "type": "Candidate"
+      }
+    ],
     "bioguide_id": "M001240"
   },
   {
@@ -1818,7 +1896,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "LAWSON, JANET",
+        "amount": "$3,295",
+        "type": "Individual"
+      },
+      {
+        "name": "WALLACE, JOHN",
+        "amount": "$2,000",
+        "type": "Individual"
+      },
+      {
+        "name": "LITTIN, FRANCES",
+        "amount": "$993",
+        "type": "Individual"
+      },
+      {
+        "name": "LITTIN, FRANCES",
+        "amount": "$993",
+        "type": "Individual"
+      },
+      {
+        "name": "SABIC-EL-RAYESS, AMRA",
+        "amount": "$941",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MOORE, TIM",
@@ -1849,7 +1953,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "WEISBERG, WILLIAM I",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "DUKE ENERGY CORPORATION PAC",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      }
+    ],
     "bioguide_id": "M001236"
   },
   {
@@ -1860,7 +1990,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "SPINDEL, MITCHEL DR.",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "WARREN, LISA",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "CONSOLIDATED PRESS",
+        "amount": "$657",
+        "type": "Organization"
+      },
+      {
+        "name": "MORLEY, HARRY CLARE JR.",
+        "amount": "$500",
+        "type": "Candidate"
+      },
+      {
+        "name": "MCCABE, TONY",
+        "amount": "$500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MURPHY, GREGORY FRANCIS DR.",
