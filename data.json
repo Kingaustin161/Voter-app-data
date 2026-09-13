@@ -1756,33 +1756,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "LAWRENCE, JACOB ROBERT",
-        "amount": "$15,550",
-        "type": "Candidate"
-      },
-      {
-        "name": "LAWRENCE, JACOB ROBERT",
-        "amount": "$8,600",
-        "type": "Candidate"
-      },
-      {
-        "name": "WOLFE, LAURA",
-        "amount": "$1,000",
-        "type": "Individual"
-      },
-      {
-        "name": "KOVNER, PETE",
-        "amount": "$1,000",
-        "type": "Individual"
-      },
-      {
-        "name": "GRIFFIN, GARETH",
-        "amount": "$1,000",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "MADDOX, PAUL",
@@ -1792,33 +1766,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "SHIER, DOUGLAS",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "SALMON, NANCY",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "SALMON, EDWARD",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "MADDOX, WENDY HEAVNER",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "MCCONKEY, JOSH",
@@ -1859,33 +1807,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "MCDOWELL VICTORY FUND",
-        "amount": "$40,208",
-        "type": "Other Committee"
-      },
-      {
-        "name": "MCDOWELL VICTORY FUND",
-        "amount": "$32,922",
-        "type": "Other Committee"
-      },
-      {
-        "name": "WINRED",
-        "amount": "$15,180",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "WINRED",
-        "amount": "$14,749",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "MCDOWELL, ADDISON",
-        "amount": "$13,560",
-        "type": "Candidate"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001240"
   },
   {
@@ -1896,33 +1818,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "LAWSON, JANET",
-        "amount": "$3,295",
-        "type": "Individual"
-      },
-      {
-        "name": "WALLACE, JOHN",
-        "amount": "$2,000",
-        "type": "Individual"
-      },
-      {
-        "name": "LITTIN, FRANCES",
-        "amount": "$993",
-        "type": "Individual"
-      },
-      {
-        "name": "LITTIN, FRANCES",
-        "amount": "$993",
-        "type": "Individual"
-      },
-      {
-        "name": "SABIC-EL-RAYESS, AMRA",
-        "amount": "$941",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "MOORE, TIM",
@@ -1953,33 +1849,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "WEISBERG, WILLIAM I",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "DUKE ENERGY CORPORATION PAC",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001236"
   },
   {
