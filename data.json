@@ -1787,33 +1787,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$57,221",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$43,364",
-        "type": "Other Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$39,751",
-        "type": "Other Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$34,728",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$17,861",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001210"
   }
 ]
