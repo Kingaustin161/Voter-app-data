@@ -1460,33 +1460,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "JOHNSON, MAROLYN",
-        "amount": "$5,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TANSEY, ROBERT",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "HENLEY, DONALD",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HUDSON, RICHARD L. JR.",
@@ -1517,33 +1491,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$121,747",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$115,126",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$89,847",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$74,460",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$56,813",
-        "type": "Political Action Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001067"
   },
   {
@@ -1554,33 +1502,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HUDSPETH, RICHARD W.",
-        "amount": "$36,500",
-        "type": "Candidate"
-      },
-      {
-        "name": "HUDSPETH, RICHARD DR.",
-        "amount": "$7,746",
-        "type": "Candidate"
-      },
-      {
-        "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "HUDSPETH, RICHARD W.",
-        "amount": "$3,500",
-        "type": "Candidate"
-      },
-      {
-        "name": "HUDSPETH, RICHARD W.",
-        "amount": "$3,500",
-        "type": "Candidate"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "JASLOW, ALLISON",
