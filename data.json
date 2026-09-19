@@ -1662,7 +1662,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$8,578",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$7,500",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$5,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$4,130",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$3,494",
+        "type": "Candidate"
+      }
+    ]
   },
   {
     "name": "KNOTT, BRAD",
@@ -1730,7 +1756,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "LAWRENCE, JACOB ROBERT",
+        "amount": "$15,550",
+        "type": "Candidate"
+      },
+      {
+        "name": "LAWRENCE, JACOB ROBERT",
+        "amount": "$8,600",
+        "type": "Candidate"
+      },
+      {
+        "name": "WOLFE, LAURA",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "KOVNER, PETE",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "GRIFFIN, GARETH",
+        "amount": "$1,000",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MADDOX, PAUL",
@@ -1740,7 +1792,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "SHIER, DOUGLAS",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "SALMON, NANCY",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "SALMON, EDWARD",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "MADDOX, WENDY HEAVNER",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MCCONKEY, JOSH",
@@ -1781,7 +1859,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "MCDOWELL VICTORY FUND",
+        "amount": "$40,208",
+        "type": "Other Committee"
+      },
+      {
+        "name": "MCDOWELL VICTORY FUND",
+        "amount": "$32,922",
+        "type": "Other Committee"
+      },
+      {
+        "name": "WINRED",
+        "amount": "$15,180",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "WINRED",
+        "amount": "$14,749",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "MCDOWELL, ADDISON",
+        "amount": "$13,560",
+        "type": "Candidate"
+      }
+    ],
     "bioguide_id": "M001240"
   },
   {
