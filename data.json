@@ -1106,6 +1106,42 @@
   {
     "name": "GANORKAR, MAHESH",
     "party": "REPUBLICAN PARTY",
+    "candidate_id": "H2NC06106",
+    "incumbent_challenger": null,
+    "photo_url": null,
+    "district": null,
+    "voting_record": null,
+    "donors": [
+      {
+        "name": "GANORKAR FOR CONGRESS",
+        "amount": "$1,750",
+        "type": "Campaign Committee"
+      },
+      {
+        "name": "GANORKAR, MAHESH",
+        "amount": "$1,740",
+        "type": "Candidate"
+      },
+      {
+        "name": "GANORKAR, MAHESH",
+        "amount": "$1,069",
+        "type": "Candidate"
+      },
+      {
+        "name": "WIMPISINGER, KEVIN",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ANEDOT SV9T 2252501301, ANEDOT SV9T 225250",
+        "amount": "$720",
+        "type": "Individual"
+      }
+    ]
+  },
+  {
+    "name": "GANORKAR, MAHESH",
+    "party": "REPUBLICAN PARTY",
     "candidate_id": "H4NC02150",
     "incumbent_challenger": "Challenger",
     "photo_url": null,
@@ -1308,8 +1344,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H6NC09200",
-    "incumbent_challenger": "Challenger",
+    "candidate_id": "H4NC08066",
+    "incumbent_challenger": "Incumbent",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -1366,8 +1402,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC08066",
-    "incumbent_challenger": "Incumbent",
+    "candidate_id": "H6NC09200",
+    "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -2017,63 +2053,5 @@
         "type": "Individual"
       }
     ]
-  },
-  {
-    "name": "MURPHY, GREGORY FRANCIS DR.",
-    "party": "REPUBLICAN PARTY",
-    "candidate_id": "H0NC03172",
-    "incumbent_challenger": "Incumbent",
-    "photo_url": null,
-    "district": 3,
-    "voting_record": [
-      {
-        "bill": "H.Res. 1075",
-        "vote": "Yes"
-      },
-      {
-        "bill": "S. 2503",
-        "vote": "No"
-      },
-      {
-        "bill": "H.R. 6329",
-        "vote": "No"
-      },
-      {
-        "bill": "H.R. 4758",
-        "vote": "Yes"
-      },
-      {
-        "bill": "H.R. 4626",
-        "vote": "Yes"
-      }
-    ],
-    "donors": [
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$57,221",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$43,364",
-        "type": "Other Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$39,751",
-        "type": "Other Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$34,728",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM MURPHY",
-        "amount": "$17,861",
-        "type": "Other Committee"
-      }
-    ],
-    "bioguide_id": "M001210"
   }
 ]
