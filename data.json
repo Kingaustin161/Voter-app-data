@@ -1255,7 +1255,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "HARJES, CHRISTOPHER JOHN",
+        "amount": "$20,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "HARJES, CHRISTOPHER JOHN",
+        "amount": "$20,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "HARJES, RACHEL",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "HARJES, JOHN",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,765",
+        "type": "Political Action Committee"
+      }
+    ]
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1286,7 +1312,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$17,894",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$17,211",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$13,058",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$11,869",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$11,629",
+        "type": "Other Committee"
+      }
+    ],
     "bioguide_id": "H001101"
   },
   {
@@ -1294,38 +1346,6 @@
     "party": "REPUBLICAN PARTY",
     "candidate_id": "H6NC09200",
     "incumbent_challenger": "Challenger",
-    "photo_url": null,
-    "district": 8,
-    "voting_record": [
-      {
-        "bill": "H.Res. 1075",
-        "vote": "Yes"
-      },
-      {
-        "bill": "S. 2503",
-        "vote": "Yes"
-      },
-      {
-        "bill": "H.R. 6329",
-        "vote": "Yes"
-      },
-      {
-        "bill": "H.R. 4758",
-        "vote": "Yes"
-      },
-      {
-        "bill": "H.R. 4626",
-        "vote": "Yes"
-      }
-    ],
-    "donors": [],
-    "bioguide_id": "H001102"
-  },
-  {
-    "name": "HARRIS, MARK E",
-    "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC08066",
-    "incumbent_challenger": "Incumbent",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -1380,6 +1400,38 @@
     "bioguide_id": "H001102"
   },
   {
+    "name": "HARRIS, MARK E",
+    "party": "REPUBLICAN PARTY",
+    "candidate_id": "H4NC08066",
+    "incumbent_challenger": "Incumbent",
+    "photo_url": null,
+    "district": 8,
+    "voting_record": [
+      {
+        "bill": "H.Res. 1075",
+        "vote": "Yes"
+      },
+      {
+        "bill": "S. 2503",
+        "vote": "Yes"
+      },
+      {
+        "bill": "H.R. 6329",
+        "vote": "Yes"
+      },
+      {
+        "bill": "H.R. 4758",
+        "vote": "Yes"
+      },
+      {
+        "bill": "H.R. 4626",
+        "vote": "Yes"
+      }
+    ],
+    "donors": [],
+    "bioguide_id": "H001102"
+  },
+  {
     "name": "HEDGEPETH, CHARAY DR",
     "party": "DEMOCRATIC PARTY",
     "candidate_id": "H6NC12139",
@@ -1387,28 +1439,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "SMITH, CHARAY DR",
-        "amount": "$25,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "SMITH, CHARAY",
-        "amount": "$25,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "SMITH, CHARAY DR",
-        "amount": "$12,395",
-        "type": "Candidate"
-      },
-      {
-        "name": "SMITH, CHARAY",
-        "amount": "$100",
-        "type": "Candidate"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HUBBARD, CHUCK",
@@ -1418,33 +1449,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "JOHNSON, MAROLYN",
-        "amount": "$5,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TANSEY, ROBERT",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "HENLEY, DONALD",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HUDSON, RICHARD L. JR.",
@@ -1475,33 +1480,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$121,747",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$115,126",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$89,847",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$74,460",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$56,813",
-        "type": "Political Action Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001067"
   },
   {
@@ -1573,33 +1552,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$58,492",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$45,502",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$31,241",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$19,231",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$11,310",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "K000405"
   },
   {
