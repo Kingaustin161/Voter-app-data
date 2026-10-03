@@ -1292,8 +1292,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H6NC09200",
-    "incumbent_challenger": "Challenger",
+    "candidate_id": "H4NC08066",
+    "incumbent_challenger": "Incumbent",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -1324,8 +1324,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC08066",
-    "incumbent_challenger": "Incumbent",
+    "candidate_id": "H6NC09200",
+    "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": 8,
     "voting_record": [
