@@ -1226,7 +1226,7 @@
         "type": "Organization"
       },
       {
-        "name": "WINOGRAD, TERRY",
+        "name": "MANDEL, SUSAN",
         "amount": "$3,500",
         "type": "Individual"
       },
@@ -1236,12 +1236,12 @@
         "type": "Organization"
       },
       {
-        "name": "LATHAM, CHRISTOPHER",
+        "name": "MANDEL, STEPHEN",
         "amount": "$3,500",
         "type": "Individual"
       },
       {
-        "name": "HASKINS, SHELLEY J.",
+        "name": "AIDELLS, BRUCE",
         "amount": "$3,500",
         "type": "Individual"
       }
@@ -1255,33 +1255,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, RACHEL",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "HARJES, JOHN",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,765",
-        "type": "Political Action Committee"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1312,40 +1286,14 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$17,894",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$17,211",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$13,058",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$11,869",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$11,629",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001101"
   },
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H6NC09200",
-    "incumbent_challenger": "Challenger",
+    "candidate_id": "H4NC08066",
+    "incumbent_challenger": "Incumbent",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -1402,8 +1350,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC08066",
-    "incumbent_challenger": "Incumbent",
+    "candidate_id": "H6NC09200",
+    "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -1496,7 +1444,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "JOHNSON, MAROLYN",
+        "amount": "$5,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TANSEY, ROBERT",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "HENLEY, DONALD",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "HUDSON, RICHARD L. JR.",
@@ -1527,7 +1501,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$121,747",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$115,126",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$89,847",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$74,460",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TEAM HUDSON",
+        "amount": "$56,813",
+        "type": "Political Action Committee"
+      }
+    ],
     "bioguide_id": "H001067"
   },
   {
@@ -1538,7 +1538,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "HUDSPETH, RICHARD W.",
+        "amount": "$36,500",
+        "type": "Candidate"
+      },
+      {
+        "name": "HUDSPETH, RICHARD DR.",
+        "amount": "$7,746",
+        "type": "Candidate"
+      },
+      {
+        "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "HUDSPETH, RICHARD W.",
+        "amount": "$3,500",
+        "type": "Candidate"
+      },
+      {
+        "name": "HUDSPETH, RICHARD W.",
+        "amount": "$3,500",
+        "type": "Candidate"
+      }
+    ]
   },
   {
     "name": "JASLOW, ALLISON",
@@ -1599,7 +1625,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$58,492",
+        "type": "Other Committee"
+      },
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$45,502",
+        "type": "Other Committee"
+      },
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$31,241",
+        "type": "Other Committee"
+      },
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$19,231",
+        "type": "Other Committee"
+      },
+      {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "amount": "$11,310",
+        "type": "Other Committee"
+      }
+    ],
     "bioguide_id": "K000405"
   },
   {
@@ -1610,7 +1662,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "LAWRENCE, JACOB ROBERT",
+        "amount": "$15,550",
+        "type": "Candidate"
+      },
+      {
+        "name": "LAWRENCE, JACOB ROBERT",
+        "amount": "$8,600",
+        "type": "Candidate"
+      },
+      {
+        "name": "WOLFE, LAURA",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "KOVNER, PETE",
+        "amount": "$1,000",
+        "type": "Individual"
+      },
+      {
+        "name": "GRIFFIN, GARETH",
+        "amount": "$1,000",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MADDOX, PAUL",
@@ -1672,7 +1750,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "LAWSON, JANET",
+        "amount": "$3,295",
+        "type": "Individual"
+      },
+      {
+        "name": "WALLACE, JOHN",
+        "amount": "$2,000",
+        "type": "Individual"
+      },
+      {
+        "name": "LITTIN, FRANCES",
+        "amount": "$993",
+        "type": "Individual"
+      },
+      {
+        "name": "LITTIN, FRANCES",
+        "amount": "$993",
+        "type": "Individual"
+      },
+      {
+        "name": "SABIC-EL-RAYESS, AMRA",
+        "amount": "$941",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MOORE, TIM",
