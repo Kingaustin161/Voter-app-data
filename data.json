@@ -1106,8 +1106,8 @@
   {
     "name": "GANORKAR, MAHESH",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H2NC06106",
-    "incumbent_challenger": null,
+    "candidate_id": "H4NC02150",
+    "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": null,
     "voting_record": null,
@@ -1142,8 +1142,8 @@
   {
     "name": "GANORKAR, MAHESH",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC02150",
-    "incumbent_challenger": "Challenger",
+    "candidate_id": "H2NC06106",
+    "incumbent_challenger": null,
     "photo_url": null,
     "district": null,
     "voting_record": null,
