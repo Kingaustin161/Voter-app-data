@@ -1229,33 +1229,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Organization"
-      },
-      {
-        "name": "MANDEL, SUSAN",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Organization"
-      },
-      {
-        "name": "MANDEL, STEPHEN",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "AIDELLS, BRUCE",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARJES, CHRISTOPHER JOHN",
@@ -1265,33 +1239,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, RACHEL",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "HARJES, JOHN",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,765",
-        "type": "Political Action Committee"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1322,33 +1270,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$17,894",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$17,211",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$13,058",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$11,869",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$11,629",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001101"
   },
   {
@@ -1380,33 +1302,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "MARK HARRIS VICTORY FUND",
-        "amount": "$20,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "WILLIAMS, BRIAN",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "SHINN, GEORGE",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "RUSSELL, ATLAS",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "INGRAM, MICHAEL K",
-        "amount": "$7,000",
-        "type": "Individual"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001102"
   },
   {
@@ -1438,33 +1334,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "MARK HARRIS VICTORY FUND",
-        "amount": "$20,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "WILLIAMS, BRIAN",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "SHINN, GEORGE",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "RUSSELL, ATLAS",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "INGRAM, MICHAEL K",
-        "amount": "$7,000",
-        "type": "Individual"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001102"
   },
   {
@@ -1475,28 +1345,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "SMITH, CHARAY DR",
-        "amount": "$25,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "SMITH, CHARAY",
-        "amount": "$25,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "SMITH, CHARAY DR",
-        "amount": "$12,395",
-        "type": "Candidate"
-      },
-      {
-        "name": "SMITH, CHARAY",
-        "amount": "$100",
-        "type": "Candidate"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HUBBARD, CHUCK",
@@ -1506,33 +1355,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "JOHNSON, MAROLYN",
-        "amount": "$5,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TANSEY, ROBERT",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "HENLEY, DONALD",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HUDSON, RICHARD L. JR.",
@@ -1563,33 +1386,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$121,747",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$115,126",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$89,847",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$74,460",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TEAM HUDSON",
-        "amount": "$56,813",
-        "type": "Political Action Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001067"
   },
   {
@@ -1600,33 +1397,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HUDSPETH, RICHARD W.",
-        "amount": "$36,500",
-        "type": "Candidate"
-      },
-      {
-        "name": "HUDSPETH, RICHARD DR.",
-        "amount": "$7,746",
-        "type": "Candidate"
-      },
-      {
-        "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "HUDSPETH, RICHARD W.",
-        "amount": "$3,500",
-        "type": "Candidate"
-      },
-      {
-        "name": "HUDSPETH, RICHARD W.",
-        "amount": "$3,500",
-        "type": "Candidate"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "JASLOW, ALLISON",
@@ -1636,33 +1407,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "CROSSPARTISAN PAC 1",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "PRO-CHOICE MAJORITY 2026",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "TISCH, JONATHAN",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "JEFFERSON, CYRIL",
@@ -1672,33 +1417,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HUBSPOT",
-        "amount": "$6,073",
-        "type": "Organization"
-      },
-      {
-        "name": "PAC TO THE FUTURE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "STANBACK, FRED",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "CONGDON, DAVID S",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "BRYANT, GREGORY",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "KASSAY, ALYSA",
@@ -1708,33 +1427,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$8,578",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$7,500",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$5,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$5,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$3,494",
-        "type": "Candidate"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "KNOTT, BRAD",
@@ -1765,33 +1458,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$58,492",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$45,502",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$31,241",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$19,231",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$11,310",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "K000405"
   },
   {
@@ -1895,7 +1562,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "WEISBERG, WILLIAM I",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "DUKE ENERGY CORPORATION PAC",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      }
+    ],
     "bioguide_id": "M001236"
   }
 ]
