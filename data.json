@@ -1116,7 +1116,7 @@
   {
     "name": "GANORKAR, MAHESH",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC02150",
+    "candidate_id": "H2NC06106",
     "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": null,
@@ -1152,7 +1152,7 @@
   {
     "name": "GANORKAR, MAHESH",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H2NC06106",
+    "candidate_id": "H4NC02150",
     "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": null,
@@ -1229,7 +1229,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Organization"
+      },
+      {
+        "name": "MANDEL, SUSAN",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Organization"
+      },
+      {
+        "name": "MANDEL, STEPHEN",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "AIDELLS, BRUCE",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "HARJES, CHRISTOPHER JOHN",
@@ -1239,7 +1265,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "HARJES, CHRISTOPHER JOHN",
+        "amount": "$20,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "HARJES, CHRISTOPHER JOHN",
+        "amount": "$20,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "HARJES, RACHEL",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "HARJES, JOHN",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,765",
+        "type": "Political Action Committee"
+      }
+    ]
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1302,8 +1354,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H6NC09200",
-    "incumbent_challenger": "Challenger",
+    "candidate_id": "H4NC08066",
+    "incumbent_challenger": "Incumbent",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -1360,8 +1412,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC08066",
-    "incumbent_challenger": "Incumbent",
+    "candidate_id": "H6NC09200",
+    "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -1786,7 +1838,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "SHIER, DOUGLAS",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "SALMON, NANCY",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "SALMON, EDWARD",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "MADDOX, WENDY HEAVNER",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MCCONKEY, JOSH",
@@ -1921,7 +1999,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "WEISBERG, WILLIAM I",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "DUKE ENERGY CORPORATION PAC",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      }
+    ],
     "bioguide_id": "M001236"
   }
 ]
