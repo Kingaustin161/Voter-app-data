@@ -1061,29 +1061,8 @@
     "candidate_id": "H4NC05146",
     "incumbent_challenger": "Incumbent",
     "photo_url": null,
-    "district": 5,
-    "voting_record": [
-      {
-        "bill": "H.Res. 1075",
-        "vote": "Yes"
-      },
-      {
-        "bill": "S. 2503",
-        "vote": "No"
-      },
-      {
-        "bill": "H.R. 6329",
-        "vote": "Yes"
-      },
-      {
-        "bill": "H.R. 4758",
-        "vote": "Yes"
-      },
-      {
-        "bill": "H.R. 4626",
-        "vote": "Yes"
-      }
-    ],
+    "district": null,
+    "voting_record": null,
     "donors": [
       {
         "name": "RONALD BLUE TRUST",
@@ -1110,8 +1089,7 @@
         "amount": "$7,000",
         "type": "Individual"
       }
-    ],
-    "bioguide_id": "F000450"
+    ]
   },
   {
     "name": "GANORKAR, MAHESH",
