@@ -1614,7 +1614,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "CROSSPARTISAN PAC 1",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "PRO-CHOICE MAJORITY 2026",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "TISCH, JONATHAN",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "JEFFERSON, CYRIL",
@@ -1624,7 +1650,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "HUBSPOT",
+        "amount": "$6,073",
+        "type": "Organization"
+      },
+      {
+        "name": "PAC TO THE FUTURE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "STANBACK, FRED",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "CONGDON, DAVID S",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "BRYANT, GREGORY",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "KASSAY, ALYSA",
@@ -1634,7 +1686,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$8,578",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$7,500",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$5,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$5,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "KASSAY, ALYSA",
+        "amount": "$3,494",
+        "type": "Candidate"
+      }
+    ]
   },
   {
     "name": "KNOTT, BRAD",
@@ -1805,7 +1883,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "MCDOWELL VICTORY FUND",
+        "amount": "$40,208",
+        "type": "Other Committee"
+      },
+      {
+        "name": "MCDOWELL VICTORY FUND",
+        "amount": "$32,922",
+        "type": "Other Committee"
+      },
+      {
+        "name": "WINRED",
+        "amount": "$15,180",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "WINRED",
+        "amount": "$14,749",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "MCDOWELL, ADDISON",
+        "amount": "$13,560",
+        "type": "Candidate"
+      }
+    ],
     "bioguide_id": "M001240"
   },
   {
@@ -1873,7 +1977,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "WEISBERG, WILLIAM I",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "DUKE ENERGY CORPORATION PAC",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      },
+      {
+        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+        "amount": "$5,000",
+        "type": "Political Action Committee"
+      }
+    ],
     "bioguide_id": "M001236"
   }
 ]
