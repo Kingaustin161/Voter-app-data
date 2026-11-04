@@ -1883,33 +1883,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "MCDOWELL VICTORY FUND",
-        "amount": "$40,208",
-        "type": "Other Committee"
-      },
-      {
-        "name": "MCDOWELL VICTORY FUND",
-        "amount": "$32,922",
-        "type": "Other Committee"
-      },
-      {
-        "name": "WINRED",
-        "amount": "$15,180",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "WINRED",
-        "amount": "$14,749",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "MCDOWELL, ADDISON",
-        "amount": "$13,560",
-        "type": "Candidate"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001240"
   },
   {
@@ -1920,33 +1894,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "LAWSON, JANET",
-        "amount": "$3,295",
-        "type": "Individual"
-      },
-      {
-        "name": "WALLACE, JOHN",
-        "amount": "$2,000",
-        "type": "Individual"
-      },
-      {
-        "name": "LITTIN, FRANCES",
-        "amount": "$993",
-        "type": "Individual"
-      },
-      {
-        "name": "LITTIN, FRANCES",
-        "amount": "$993",
-        "type": "Individual"
-      },
-      {
-        "name": "SABIC-EL-RAYESS, AMRA",
-        "amount": "$941",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "MOORE, TIM",
