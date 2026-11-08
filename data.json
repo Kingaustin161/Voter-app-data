@@ -1265,33 +1265,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, RACHEL",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "HARJES, JOHN",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,765",
-        "type": "Political Action Committee"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1469,33 +1443,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HUBSPOT",
-        "amount": "$6,073",
-        "type": "Organization"
-      },
-      {
-        "name": "PAC TO THE FUTURE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "SHEARING, MIRIAM",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "STANBACK, FRED",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "CONGDON, DAVID S",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "KASSAY, ALYSA",
