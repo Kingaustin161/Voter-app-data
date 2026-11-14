@@ -1116,7 +1116,7 @@
   {
     "name": "GANORKAR, MAHESH",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC02150",
+    "candidate_id": "H2NC06106",
     "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": null,
@@ -1152,7 +1152,7 @@
   {
     "name": "GANORKAR, MAHESH",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H2NC06106",
+    "candidate_id": "H4NC02150",
     "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": null,
@@ -1229,33 +1229,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Organization"
-      },
-      {
-        "name": "MANDEL, SUSAN",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Organization"
-      },
-      {
-        "name": "MANDEL, STEPHEN",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "AIDELLS, BRUCE",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARJES, CHRISTOPHER JOHN",
@@ -1265,33 +1239,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, RACHEL",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "HARJES, JOHN",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,765",
-        "type": "Political Action Committee"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1328,8 +1276,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H6NC09200",
-    "incumbent_challenger": "Challenger",
+    "candidate_id": "H4NC08066",
+    "incumbent_challenger": "Incumbent",
     "photo_url": null,
     "district": 8,
     "voting_record": [
@@ -1360,8 +1308,8 @@
   {
     "name": "HARRIS, MARK E",
     "party": "REPUBLICAN PARTY",
-    "candidate_id": "H4NC08066",
-    "incumbent_challenger": "Incumbent",
+    "candidate_id": "H6NC09200",
+    "incumbent_challenger": "Challenger",
     "photo_url": null,
     "district": 8,
     "voting_record": [
