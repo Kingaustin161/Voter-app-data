@@ -1229,33 +1229,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Organization"
-      },
-      {
-        "name": "MANDEL, SUSAN",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Organization"
-      },
-      {
-        "name": "MANDEL, STEPHEN",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "AIDELLS, BRUCE",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARJES, CHRISTOPHER JOHN",
@@ -1265,33 +1239,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, RACHEL",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "HARJES, JOHN",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,765",
-        "type": "Political Action Committee"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1322,33 +1270,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$17,894",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$17,211",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$13,058",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$11,869",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$11,629",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001101"
   },
   {
@@ -1672,33 +1594,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HUBSPOT",
-        "amount": "$6,073",
-        "type": "Organization"
-      },
-      {
-        "name": "PAC TO THE FUTURE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "SHEARING, MIRIAM",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "STANBACK, FRED",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "CONGDON, DAVID S",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "KASSAY, ALYSA",
@@ -1708,33 +1604,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$8,578",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$7,500",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$5,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$5,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$3,494",
-        "type": "Candidate"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "KNOTT, BRAD",
@@ -1802,33 +1672,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "LAWRENCE, JACOB ROBERT",
-        "amount": "$15,550",
-        "type": "Candidate"
-      },
-      {
-        "name": "LAWRENCE, JACOB ROBERT",
-        "amount": "$8,600",
-        "type": "Candidate"
-      },
-      {
-        "name": "WOLFE, LAURA",
-        "amount": "$1,000",
-        "type": "Individual"
-      },
-      {
-        "name": "KOVNER, PETE",
-        "amount": "$1,000",
-        "type": "Individual"
-      },
-      {
-        "name": "GRIFFIN, GARETH",
-        "amount": "$1,000",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "MADDOX, PAUL",
@@ -1999,33 +1843,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "WEISBERG, WILLIAM I",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "DUKE ENERGY CORPORATION PAC",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001236"
   }
 ]
