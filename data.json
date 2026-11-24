@@ -1229,33 +1229,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Organization"
-      },
-      {
-        "name": "MANDEL, SUSAN",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Organization"
-      },
-      {
-        "name": "MANDEL, STEPHEN",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "AIDELLS, BRUCE",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARJES, CHRISTOPHER JOHN",
@@ -1265,33 +1239,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, CHRISTOPHER JOHN",
-        "amount": "$20,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "HARJES, RACHEL",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "HARJES, JOHN",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,765",
-        "type": "Political Action Committee"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1322,33 +1270,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$17,894",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$17,211",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$13,058",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$11,869",
-        "type": "Other Committee"
-      },
-      {
-        "name": "PAT HARRIGAN VICTORY COMMITTEE",
-        "amount": "$11,629",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "H001101"
   },
   {
@@ -1708,33 +1630,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$8,578",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$7,500",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$5,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$5,000",
-        "type": "Candidate"
-      },
-      {
-        "name": "KASSAY, ALYSA",
-        "amount": "$3,494",
-        "type": "Candidate"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "KNOTT, BRAD",
