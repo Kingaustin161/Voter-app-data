@@ -1229,7 +1229,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Organization"
+      },
+      {
+        "name": "MANDEL, SUSAN",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,500",
+        "type": "Organization"
+      },
+      {
+        "name": "MANDEL, STEPHEN",
+        "amount": "$3,500",
+        "type": "Individual"
+      },
+      {
+        "name": "AIDELLS, BRUCE",
+        "amount": "$3,500",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "HARJES, CHRISTOPHER JOHN",
@@ -1239,7 +1265,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "HARJES, CHRISTOPHER JOHN",
+        "amount": "$20,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "HARJES, CHRISTOPHER JOHN",
+        "amount": "$20,000",
+        "type": "Candidate"
+      },
+      {
+        "name": "HARJES, RACHEL",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "HARJES, JOHN",
+        "amount": "$7,000",
+        "type": "Individual"
+      },
+      {
+        "name": "ACTBLUE",
+        "amount": "$3,765",
+        "type": "Political Action Committee"
+      }
+    ]
   },
   {
     "name": "HARRIGAN, PAT",
@@ -1270,7 +1322,33 @@
         "vote": "Yes"
       }
     ],
-    "donors": [],
+    "donors": [
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$17,894",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$17,211",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$13,058",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$11,869",
+        "type": "Other Committee"
+      },
+      {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "amount": "$11,629",
+        "type": "Other Committee"
+      }
+    ],
     "bioguide_id": "H001101"
   },
   {
@@ -1635,33 +1713,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$58,492",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$45,502",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$31,241",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$19,231",
-        "type": "Other Committee"
-      },
-      {
-        "name": "KNOTT VICTORY COMMITTEE",
-        "amount": "$11,310",
-        "type": "Other Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "K000405"
   },
   {
@@ -1682,33 +1734,7 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": [
-      {
-        "name": "ACTBLUE",
-        "amount": "$3,500",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "SHIER, DOUGLAS",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "SALMON, NANCY",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "SALMON, EDWARD",
-        "amount": "$3,500",
-        "type": "Individual"
-      },
-      {
-        "name": "MADDOX, WENDY HEAVNER",
-        "amount": "$3,500",
-        "type": "Individual"
-      }
-    ]
+    "donors": []
   },
   {
     "name": "MCCONKEY, JOSH",
@@ -1749,33 +1775,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "MCDOWELL VICTORY FUND",
-        "amount": "$40,208",
-        "type": "Other Committee"
-      },
-      {
-        "name": "MCDOWELL VICTORY FUND",
-        "amount": "$32,922",
-        "type": "Other Committee"
-      },
-      {
-        "name": "WINRED",
-        "amount": "$15,180",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "WINRED",
-        "amount": "$14,749",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "MCDOWELL, ADDISON",
-        "amount": "$13,560",
-        "type": "Candidate"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001240"
   },
   {
@@ -1786,7 +1786,33 @@
     "photo_url": null,
     "district": null,
     "voting_record": null,
-    "donors": []
+    "donors": [
+      {
+        "name": "LAWSON, JANET",
+        "amount": "$3,295",
+        "type": "Individual"
+      },
+      {
+        "name": "DANDY, BLANCA",
+        "amount": "$2,668",
+        "type": "Individual"
+      },
+      {
+        "name": "WALLACE, JOHN",
+        "amount": "$2,000",
+        "type": "Individual"
+      },
+      {
+        "name": "LITTIN, FRANCES",
+        "amount": "$993",
+        "type": "Individual"
+      },
+      {
+        "name": "LITTIN, FRANCES",
+        "amount": "$993",
+        "type": "Individual"
+      }
+    ]
   },
   {
     "name": "MOORE, TIM",
@@ -1817,33 +1843,7 @@
         "vote": "Yes"
       }
     ],
-    "donors": [
-      {
-        "name": "WEISBERG, WILLIAM I",
-        "amount": "$7,000",
-        "type": "Individual"
-      },
-      {
-        "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "DUKE ENERGY CORPORATION PAC",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      },
-      {
-        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
-        "amount": "$5,000",
-        "type": "Political Action Committee"
-      }
-    ],
+    "donors": [],
     "bioguide_id": "M001236"
   }
 ]
